@@ -4,8 +4,7 @@ Pipeline de análisis de marketing que conecta campañas,
 leads y ventas para tomar decisiones con datos reales.
 
 ## Empresa
-Agencia de activaciones y tecnología experiencial —
-$130K MXN/mes en Meta Ads y Google Ads.
+Agencia de activaciones y tecnología experiencial con inversión mensual en Meta Ads y Google Ads.
 
 ## Stack tecnológico
 - **Fuentes:** Meta Ads API · Google Ads · HubSpot CRM · Ventas
